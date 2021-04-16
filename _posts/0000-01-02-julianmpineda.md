@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"\bHello World"
+"<b>Hello World<\b>"
 Use the left arrow to go back!
